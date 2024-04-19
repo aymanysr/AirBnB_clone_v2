@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-This script defines a Flask web application with one route that displays "Hello HBNB!".
+This script defines a Flask web application with
+one route that displays "Hello HBNB!".
 """
 
 from flask import Flask
